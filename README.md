@@ -1,7 +1,6 @@
 
 # Липкие панели
 Липкие панели на js
-TRT
 
 [![https://gyazo.com/d781d851b2eb79f39dcf2691beda3e0a](https://i.gyazo.com/d781d851b2eb79f39dcf2691beda3e0a.png)](https://gyazo.com/d781d851b2eb79f39dcf2691beda3e0a)
 [![https://gyazo.com/c6ae112484482bce2467770f631139b2](https://i.gyazo.com/c6ae112484482bce2467770f631139b2.png)](https://gyazo.com/c6ae112484482bce2467770f631139b2)
